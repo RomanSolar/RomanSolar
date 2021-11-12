@@ -1,8 +1,13 @@
-### Hi there 👋
+
+- 👋 Hi, I’m @NataliaSolar
+- 👀 I’m interested in weather APIs
+- 🌱 I’m currently learning Meteorological Prediction Algorithms
+- 💞️ I’m looking to collaborate on any oceanography / meterology projects
+- 📫 How to reach me: via github
 
 <!--
 **RomanSolar/RomanSolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
