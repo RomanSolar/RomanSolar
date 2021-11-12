@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @NataliaSolar
+- 👋 Hi, I’m @RomanSolar
 - 👀 I’m interested in weather APIs
 - 🌱 I’m currently learning Meteorological Prediction Algorithms
 - 💞️ I’m looking to collaborate on any oceanography / meterology projects
