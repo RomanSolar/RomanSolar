@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @RomanSolar
 - 👀 I’m interested in APIs
 - 🌱 I’m currently learning Meteorological Prediction Algorithms
-- 💞️ I’m looking to collaborate on any oceanography/meterology projects. Using AI to predict weather (based on passed and current data). Using OCR to read and record plates from Tapo.
+- 💞️ I’m looking to collaborate on any oceanography/meterology projects. Using AI to predict weather (based on passed and current data). Using OCR to read and record plates from Tapo. Building it into subcribed app.
 - 📫 How to reach me: via github
 
 <!--
